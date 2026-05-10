@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|solutionrelative:washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\oven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|solutionrelative:oven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B089250B-5BA2-40C3-A7ED-57C47039C1D0}|\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD.csproj|solutionrelative:appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "washingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\washingMachine.cs",
+              "RelativeDocumentMoniker": "washingMachine.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\washingMachine.cs",
+              "RelativeToolTip": "washingMachine.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:31:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oven.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\Oven.cs",
+              "RelativeDocumentMoniker": "Oven.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\Oven.cs",
+              "RelativeToolTip": "Oven.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:22:26.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appliance.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\Appliance.cs",
+              "RelativeDocumentMoniker": "Appliance.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\Appliance.cs",
+              "RelativeToolTip": "Appliance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:16:20.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\\u05DE\u05E2\u05E8\u05DA  \u05EA\u05E8\u05D2\u05D5\u05DC \u05DE\u05D7\u05DC\u05E7\u05D5\u05EA \u05DE\u05D5\u05E4\u05E9\u05D8\u05D5\u05EA \u05D5\u05DE\u05DE\u05E9\u05E7\u05D9\u05DD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:11:38.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

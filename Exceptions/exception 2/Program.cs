@@ -6,62 +6,66 @@
         {
             int balance = 10000;
             string id = "";
-            string cardtNum = "";
+            string credit = "";
             int amount = 0;
             bool isSucccess = false;
             while (!isSucccess)
             {
+                Console.Clear();
                 try
                 {
-                    Console.WriteLine("please enter your id number: ");
-                    id = Console.ReadLine();
-                    if (id.Length < 9 || cardtNum.Length < 16)
-                    {
-                        throw new OverflowException(@"the credit \ id number  you enterd is too short.");
-                    }
+                    
                     Console.WriteLine("please enter your card number: ");
-                    cardtNum = Console.ReadLine();
-                    if (id.Length > 9 ||)
+                    credit = Console.ReadLine();
+                    bool isCardLenghtValid = (credit.Length == 16);
+                    if (!isCardLenghtValid)
                     {
-                        throw new OverflowException();
-                    }
-                    bool isIdLenghtValid = (id.Length == 9);
-                    bool isCardLenghtValid = (cardtNum.Length == 16);
-                    if (isIdLenghtValid != isCardLenghtValid)
-                    {
-                        throw new FormatException();
+                        if (credit.Length > 16)
+                            throw new OverflowException("the card number is to long.");
+                        else
+                            throw new OverflowException("the card number is to short.");
                     }
 
+                    Console.WriteLine("please enter your id number: ");
+                    id = Console.ReadLine();
+                    bool isIdLenghtValid = (id.Length == 9);
+                    if (!isIdLenghtValid)
+                    {
+                        if (id.Length > 9)
+                            throw new OverflowException("the id number is to long");
+                        else
+                            throw new OverflowException("the id number is to short");
+                    }
+
+                   
+                    long creditNum = long.Parse(credit);
+                    long idNum = long.Parse(id);
+                   
                     Console.WriteLine("please enter the amount you need: ");
                     amount = int.Parse(Console.ReadLine());
                     if (amount > balance)
                     {
-                        throw new FormatException();
+                        throw new FormatException("there is not enough cash in the balance.");
                     }
+
+                    balance = (balance - amount);
+
+                    Console.WriteLine($"account balance: {balance}");
 
                     isSucccess = true;
                 }
 
-                catch (OverflowException)
+                catch (OverflowException ofe)
                 {
-                   
-                    else
-                    {
-                        Console.WriteLine(@"the credit \ id number is too long.");
-                    }
+                    Console.WriteLine(ofe.Message);
                     Console.WriteLine("press any key to try again..");
-                    Console.ReadKey();
-                    Console.Clear();
+                    Console.ReadKey();                 
                 }
-                catch (FormatException)
+                catch (FormatException ex)
                 {
-                    if (amount > balance)
-                    {
-                        Console.WriteLine("there is not enough cash in the balance.");
-                    }
+                    Console.WriteLine(ex.Message);
                     Console.WriteLine("press any key to try again..");
                     Console.ReadKey();
-                    Console.Clear();
                 }
             }
 

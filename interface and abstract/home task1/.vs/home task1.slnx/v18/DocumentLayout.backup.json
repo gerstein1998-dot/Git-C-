@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\interface and abstract\\home task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\interface and abstract\\home task1\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|solutionrelative:movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\interface and abstract\\home task1\\livestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|solutionrelative:livestream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\interface and abstract\\home task1\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|solutionrelative:song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\interface and abstract\\home task1\\mediaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|solutionrelative:mediaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\interface and abstract\\home task1\\idownloadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E42B5C-F086-448B-8496-4DC9E03A28FB}|home task1.csproj|solutionrelative:idownloadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LiveStream.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\LiveStream.cs",
+              "RelativeDocumentMoniker": "LiveStream.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\LiveStream.cs",
+              "RelativeToolTip": "LiveStream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:27:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\Song.cs",
+              "RelativeDocumentMoniker": "Song.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\Song.cs",
+              "RelativeToolTip": "Song.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:15:52.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\Movie.cs",
+              "RelativeToolTip": "Movie.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:07:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDownloadable.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\IDownloadable.cs",
+              "RelativeDocumentMoniker": "IDownloadable.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\IDownloadable.cs",
+              "RelativeToolTip": "IDownloadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:07:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediaItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\MediaItem.cs",
+              "RelativeDocumentMoniker": "MediaItem.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\MediaItem.cs",
+              "RelativeToolTip": "MediaItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:04:49.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\interface and abstract\\home task1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:04:14.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

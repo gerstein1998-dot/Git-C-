@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\databaseconection\\home task 1(6.1)\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\databaseconection\\home task 1(6.1)\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|solutionrelative:store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\databaseconection\\home task 1(6.1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\databaseconection\\home task 1(6.1)\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D77AC8-550D-476F-A859-2B5B8B60F7B7}|home task 1(6.1).csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\Store.cs",
+              "RelativeDocumentMoniker": "Store.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\Store.cs",
+              "RelativeToolTip": "Store.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:37:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:04:35.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBConnection.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\DBConnection.cs",
+              "RelativeToolTip": "DBConnection.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:04:16.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\DataBaseConection\\home task 1(6.1)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T09:03:40.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

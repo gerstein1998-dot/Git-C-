@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\object\\home task 2 gui\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\object\\home task 2 gui\\viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|solutionrelative:viewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\object\\home task 2 gui\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\object\\home task 2 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|c:\\users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\onedrive - ruppin students and teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD net\\git-c#\\object\\home task 2 gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97B67F83-38FB-40AD-A2C9-7C8C4C456E42}|home task 2 GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\AddForm.cs",
+              "RelativeDocumentMoniker": "AddForm.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\AddForm.cs",
+              "RelativeToolTip": "AddForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:17:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\ViewForm.cs",
+              "RelativeDocumentMoniker": "ViewForm.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\ViewForm.cs [Design]",
+              "RelativeToolTip": "ViewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:14:07.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\AddForm.cs",
+              "RelativeDocumentMoniker": "AddForm.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\AddForm.cs [Design]",
+              "RelativeToolTip": "AddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:12:51.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:12:18.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05D5\u05E8\u05DF \u05D2\u05E8\u05E9\u05D8\u05D9\u05D9\u05DF\\OneDrive - Ruppin Students and Teachers\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E9\u05E0\u05D4 \u05D1\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D1\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05DB\u05D5\u05D5\u05DF \u05E2\u05E6\u05DE\u05D9\u05DD NET\\Git-C#\\object\\home task 2 GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:10:16.757Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
